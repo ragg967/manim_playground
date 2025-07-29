@@ -16,8 +16,8 @@ class FuckAround(Scene):
             x_length=10,
             y_length=4,
             tips=False,
-        ).to_edge(DOWN)
-        self.camera.background_color = ORANGE
+        )
+        self.camera.background_color = ORANGE # type: ignore
 
         #image = SVGMobject("assets/neovim-mark.svg", fill_opacity=.85)
         #self.add(image)

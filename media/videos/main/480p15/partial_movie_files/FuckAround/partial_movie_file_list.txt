@@ -1,5 +1,5 @@
 # This file is used internally by FFMPEG.
-file 'file:/home/riley/Projects/python/manim_playground/media/videos/main/480p15/partial_movie_files/FuckAround/339493932_1443687450_950681205.mp4'
-file 'file:/home/riley/Projects/python/manim_playground/media/videos/main/480p15/partial_movie_files/FuckAround/3393562948_1754310298_3712464216.mp4'
-file 'file:/home/riley/Projects/python/manim_playground/media/videos/main/480p15/partial_movie_files/FuckAround/3393562948_1544076870_790054429.mp4'
-file 'file:/home/riley/Projects/python/manim_playground/media/videos/main/480p15/partial_movie_files/FuckAround/3393562948_1754310298_713428852.mp4'
+file 'file:/home/riley/Projects/python/manim_playground/media/videos/main/480p15/partial_movie_files/FuckAround/339493932_1208932911_688818275.mp4'
+file 'file:/home/riley/Projects/python/manim_playground/media/videos/main/480p15/partial_movie_files/FuckAround/3393562948_1754310298_2429177198.mp4'
+file 'file:/home/riley/Projects/python/manim_playground/media/videos/main/480p15/partial_movie_files/FuckAround/3393562948_4038471645_790054429.mp4'
+file 'file:/home/riley/Projects/python/manim_playground/media/videos/main/480p15/partial_movie_files/FuckAround/3393562948_1754310298_290337711.mp4'
