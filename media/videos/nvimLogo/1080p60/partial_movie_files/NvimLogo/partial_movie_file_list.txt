@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/riley/Projects/python/manim_playground/media/videos/nvimLogo/1080p60/partial_movie_files/NvimLogo/2452310732_2579736682_869685252.mp4'
